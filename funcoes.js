@@ -18,8 +18,13 @@ dividir(10,2);
 
 //4 - faça uma função que retorne um array com o nome dos alunos presentes na aula
 function alunosPresentes(){
-    return ['Erick','André','Cassia','Felipe','Nilce']
+    return ['Erick','André','Cassia','Felipe','Nilce'];
 }
 alunosPresentes();
 
 //5 - faça uma função que recebe um array e um valor, adicione o valor no array e retorne o array
+function adicionarArray(arr, valor){
+    arr.push(valor);
+    return arr;
+}
+adicionarArray();
