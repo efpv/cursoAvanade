@@ -1,6 +1,6 @@
 //1 - Crie uma função que retorne o seu nome
 function meuNome(){
-    console.log("Erick Vieira")
+    return "Erick Vieira";
 }
 meuNome();
 
