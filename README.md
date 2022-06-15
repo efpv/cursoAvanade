@@ -26,8 +26,8 @@ POST -> http://localhost:3000/curso
 
 {
 "idCurso": "1",
-"nome": "Java"
-	"idProfessor": "10",
+"nome": "Java",
+"idProfessor": "10"
 }
 
 8 APOS INSERIR OS DADOS SERÁ POSSÍVEL, ATUALIZAR E DELETAR OS DADOS CONFORME SOLICITADO NO DESAFIO  
