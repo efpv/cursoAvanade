@@ -2,6 +2,8 @@ PASTA DESAFIO CONTÉM OS ARQUIVOS .gitignore, index.js, package-lock.jason, pack
 
 "Criar uma API de cursos e professores com conexão ao SQL SERVER e implementando os 4 verbos (get, post, put e delete)"
 
+Obs: Como no curso não vimos como criar a conexão com o banco de dados, iremos utilizar um servidor virtual, conforme ensinado pelo Gustavo.
+
 PARA EXECUTAR ESSE PROJETO EU UTILIZEI O VISUAL STUDIO CODE E O POSTMAN.
 
 SEGUIR OS SEGUINTES PASSOS PARA CONSEGUIR REALIZAR AS REQUISIÇÕES (get, post, put e delete) COM SUCESSO:
